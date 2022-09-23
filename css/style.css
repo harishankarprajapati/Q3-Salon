@@ -27,7 +27,17 @@ a.nav-link.text-light.font-weight-normal {
     color: #D4832C;
     align-items: center;
 }
-
+.but-get2{
+    background: linear-gradient(137.9deg, #D4832C -50.14%, #FAE286 368.57%), #FFFFFF;
+    color: #ffffff !important;
+    font-size: 26px;
+    padding: 10px 18px !important;
+}
+.but-get2:hover{
+    background: linear-gradient(137.9deg, #c99257 -50.14%, #FAE286 368.57%), #FFFFFF;
+    color: #b9b3b3;
+    text-decoration: none !important;
+}
 .sec-serv {
     font-family: 'Reey Regular' !important;
     font-size: 104px;
