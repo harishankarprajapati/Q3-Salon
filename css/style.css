@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'Reey Regular';
+    src: url(../font/reey/Reey-Regular.otf);
+}
+
+.sec-bg-2 {
+    background-color: #000000;
+}
+
+a.nav-link.text-light.font-weight-normal {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.sec-hair {
+    font-family: "Goudy Titling W05 Bold" !important;
+    font-size: 53px;
+    line-height: 131.4%;
+    color: #D4832C;
+    align-items: center;
+}
+
+.sec-serv {
+    font-family: 'Reey Regular' !important;
+    font-size: 104px;
+    line-height: 131.4%;
+    text-align: center;
+    color: #1d1d1d;
+    margin-bottom: -73px;
+}
+
+.sec-serv1 {
+    font-family: "Goudy Titling W05 Bold" !important;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #D4832C;
+}
+
+.sec-one {
+    font-family: 'Reey Regular' !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57px;
+    color: #D4832C;
+    line-height: 74px;
+}
+
+.sec-one2 {
+    font-family: "Goudy Titling W05 Bold" !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 102.18%;
+    color: #fff;
+}
+
+.sec-one3 {
+    font-family: "Goudy Titling W05 Bold" !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    color: #fff;
+}
+
+/*  GALLERY-START  */
+.sec-gall-hov {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 105%;
+    text-align: center;
+    color: #fff;
+}
+
+.ocer:hover .overlay {
+    opacity: 1;
+}
+
+.overlay {
+    position: absolute;
+    top: 30px;
+    bottom: 0;
+    left: 57px;
+    right: 0;
+    height: 80%;
+    width: 70%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(249, 175, 76, 0.63);
+}
+
+/*  GALLERY-END  */
+.carousel {
+    margin-top: 50px;
+}
+
+.carousel-inner {
+    height: 200px;
+}
+
+.carousel-caption {
+    color: #fff;
+    top: 50%;
+}
+
+.sec-he-slider {
+    background-color: #D4832C;
+    width: 52%;
+    height: 2px;
+}
+
+.sec-bg-3 {
+    background-image: url(../images/Group\ 34.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
+}
+
+.fo-bg {
+    background-color: #181818;
+}
+
+.foot hr {
+    width: 30%;
+    height: 4px;
+    margin-left: 0;
+    background-color: #B2943A;
+}
+
+.ft-icon {
+    color: #B2943A;
+}
+
+@media (max-width: 767px) {
+    .sec-hair {
+        font-size: 33px;
+        padding-top: 0px !important;
+    }
+
+    .sec-serv {
+        font-size: 35px;
+        margin-bottom: -47px;
+    }
+
+    .sec-serv1 {
+        font-size: 20px;
+        padding-bottom: 0px !important;
+    }
+    .sec-gall-hov {
+        font-size: 45px;
+    }
+    
+element.style {
+}
+.ocer:hover .overlay {
+    opacity: 1;
+}
+.overlay {
+    position: absolute;
+    top: 19px;
+    bottom: 0;
+    left: 39px;
+    right: 0;
+    height: 80%;
+    width: 70%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(249, 175, 76, 0.63);
+}
+.sec-bg-2 {
+    background-color: #000000;
+    padding: 20px 10px !important;
+}
+.sec-bg-3 {
+    padding: 20px 10px !important;
+}
+.row{
+ margin: 0px !important;
+}
+.container{
+    padding: 5px  !important;
+}
+}
