@@ -3,6 +3,11 @@
     src: url(../font/reey/Reey-Regular.otf);
 }
 
+@font-face {
+    font-family: 'Goudy Titling W05 Bold';
+    src: url(../font/Goudy\ -Titling\ -W05-\ Bold.ttf);
+}
+
 .sec-bg-2 {
     background-color: #000000;
 }
